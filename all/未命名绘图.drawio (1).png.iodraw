@@ -17,7 +17,7 @@
           <mxGeometry x="290" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-4" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1038" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="1048" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-m1oZP5rQC6Zr9Cjw4OJ-5" target="-m1oZP5rQC6Zr9Cjw4OJ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-7" value="SMBUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="1048" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-9" value="BMC UI&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-9" value="BMC UI SOL界面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-11" value="LAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
