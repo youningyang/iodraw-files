@@ -8,22 +8,22 @@
           <mxGeometry x="367" y="175" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="BMC端上传芯片固件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="367" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="373" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="367" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="373" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="固件激活" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="367" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="373" y="332" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W1adWjyTsthGRP5Mz3LJ-1" value="调用openocd工具&lt;div&gt;通过JTAG进行烧录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="373" y="487" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W1adWjyTsthGRP5Mz3LJ-2" value="读取芯片配置文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="373" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W1adWjyTsthGRP5Mz3LJ-5" value="读取烧录进度，记录烧录日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="367" y="565" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W1adWjyTsthGRP5Mz3LJ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
