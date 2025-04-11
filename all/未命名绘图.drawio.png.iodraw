@@ -31,8 +31,8 @@
         <mxCell id="XZre_dJFkHQFRvgHprYt-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZre_dJFkHQFRvgHprYt-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="268" width="50" height="30" as="geometry" />
+        <mxCell id="XZre_dJFkHQFRvgHprYt-13" value="光模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="195" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
