@@ -19,23 +19,11 @@
         <mxCell id="XZre_dJFkHQFRvgHprYt-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XZre_dJFkHQFRvgHprYt-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="390" y="190" width="90" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="XZre_dJFkHQFRvgHprYt-10" value="BMC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="145" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XZre_dJFkHQFRvgHprYt-11" value="交换机芯片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="190" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZre_dJFkHQFRvgHprYt-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="190" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XZre_dJFkHQFRvgHprYt-13" value="光模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="195" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZre_dJFkHQFRvgHprYt-23" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="160" height="86" as="geometry" />
+        <mxCell id="XZre_dJFkHQFRvgHprYt-23" value="交换机芯片" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XZre_dJFkHQFRvgHprYt-24" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XZre_dJFkHQFRvgHprYt-23">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
