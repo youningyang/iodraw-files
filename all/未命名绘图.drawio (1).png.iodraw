@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-m1oZP5rQC6Zr9Cjw4OJ-1" target="-m1oZP5rQC6Zr9Cjw4OJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-1" value="交换机串口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-2" value="BMC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
