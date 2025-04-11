@@ -10,11 +10,17 @@
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;交换机串口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-m1oZP5rQC6Zr9Cjw4OJ-2" target="-m1oZP5rQC6Zr9Cjw4OJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;BMC&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-4" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="1038" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-m1oZP5rQC6Zr9Cjw4OJ-5" value="LAN Controller&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
