@@ -28,6 +28,9 @@
         <mxCell id="XZre_dJFkHQFRvgHprYt-11" value="交换机芯片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="195" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XZre_dJFkHQFRvgHprYt-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
